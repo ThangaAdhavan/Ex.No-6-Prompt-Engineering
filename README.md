@@ -42,6 +42,5 @@ else:
 ___________________________________________________________________________________________________________________________________________________________________
 ## Output:
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/973885d3-2a95-4a89-95b8-9a063f36fb37" />
-<br>
 ## Result: 
 The given response run successfully without any irregular correption.
